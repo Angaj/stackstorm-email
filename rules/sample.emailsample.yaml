@@ -14,6 +14,6 @@ action:
   ref: core.sendmail
   parameters:
     body: 'We received an email'
-    to: janedoe@gmail.com
-    from: stackstorm@yourcompanyname.com
+    to: bravebautista96@gmail.com
+    from: rajshahu95@gmail.com
     subject: 'Email Received'
