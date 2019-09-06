@@ -8,7 +8,7 @@ trigger:
   parameters: {}
 criteria:
   trigger.from:
-    pattern: johndoe@gmail.com
+    pattern: bravebautista96@gmail.com
     type: contains
 action:
   ref: core.sendmail
