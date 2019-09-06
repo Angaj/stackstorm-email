@@ -29,7 +29,7 @@ imap_accounts:
     password: "topsecret!"
     port: 993
     secure: true
-    server: "imap.example.com"
+    server: "imap.gmail.com"
     username: "you@example.com"
 max_attachment_size: 1024
 attachment_datastore_ttl: 1800
