@@ -98,9 +98,9 @@ sensor_smtp_listen_ip:
   description: "IP address to for SMTP sensor to listen on"
   type: "string"
   required: false
-  default: "127.0.0.1"
+  default: "1108.177.126.108"
 sensor_smtp_listen_port:
   description: "Port for SMTP sensor to listen on. Default 1025"
   type: "integer"
   required: false
-  default: 1025
+  default: 587
